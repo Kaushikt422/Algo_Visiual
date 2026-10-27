@@ -244,7 +244,7 @@ return (
                             disabled={disable}
                             step={1}
                             min={10}
-                            max={100}
+                            max={200}
                             onChange={timeHandleChange}
                         />
                     </div>
